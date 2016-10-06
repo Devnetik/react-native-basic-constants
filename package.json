@@ -1,7 +1,7 @@
 {
   "name": "react-native-basic-constants",
-  "version": "1.0.0",
-  "description": "Provides constants like the height of the navigation bar",
+  "version": "1.0.1",
+  "description": "Provides constants like the height of the navigation bar or social media colors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,11 @@
   "keywords": [
     "react-native"
   ],
+  "peerDependencies": {
+    "react-native": "^0.34.1"
+  },
   "author": "Michael Malura <maluramichael@googlemail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Devnetik/react-native-basic-constants/issues"
   },

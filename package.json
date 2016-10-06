@@ -1,6 +1,6 @@
 {
   "name": "react-native-basic-constants",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides constants like the height of the navigation bar or social media colors",
   "main": "index.js",
   "scripts": {

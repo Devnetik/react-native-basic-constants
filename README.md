@@ -1,5 +1,7 @@
 # Basic constants
 
+[![Join the chat at https://gitter.im/Devnetik/react-native-basic-constants](https://badges.gitter.im/Devnetik/react-native-basic-constants.svg)](https://gitter.im/Devnetik/react-native-basic-constants?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm](https://img.shields.io/npm/dm/react-native-basic-constants.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-basic-constants)
 [![npm](https://img.shields.io/npm/v/react-native-basic-constants.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-basic-constants)
 [![Beerpay](https://beerpay.io/Devnetik/react-native-basic-constants/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-basic-constants)
